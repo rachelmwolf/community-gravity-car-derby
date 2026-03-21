@@ -16,7 +16,7 @@ Why:
 
 - the track uses a MicroWizard K2 gate
 - many comparable rules use `under 3 inches`
-- the committee believes `4 inches` should clear the gate without issue
+- the MicroWizard K2 gate will accommodate `4 inches` with space
 
 Action:
 
@@ -84,6 +84,7 @@ Close issue `#6` only when all of the following are true:
 - failed-inspection policy is finalized
 - build-rules doc is updated
 - inspection checklist is updated to match
+- any stale wording that suggests non-compliant cars cannot race is removed
 
 ## What Not To Overcomplicate
 
