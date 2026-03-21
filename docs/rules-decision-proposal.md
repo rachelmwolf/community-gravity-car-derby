@@ -2,42 +2,38 @@
 
 ## Purpose
 
-This document is a working proposal for closing the open questions in the build-rules draft. It is intentionally short and decision-focused.
+This document records the current committee decisions for closing the open questions in the build-rules draft.
 
 ## Decisions Needed
 
 ### 1. Maximum Height
 
-Recommendation:
+Decision:
 
-- do not publish a guessed number
-- measure the timing gate clearance on the actual track
-- set the maximum height to the measured clearance minus a small safety margin
+- maximum height will be `4 inches`
 
 Why:
 
-- this is a pass / fail inspection item
-- a wrong number creates avoidable disputes
-- the build-rules doc already notes that timing-gate clearance is the real constraint
+- the track uses a MicroWizard K2 gate
+- many comparable rules use `under 3 inches`
+- the committee believes `4 inches` should clear the gate without issue
 
 Action:
 
-- measure the gate
-- record the final number in the build-rules doc
-- update the inspection checklist
+- record `4 inches` in the build-rules doc
+- update the inspection checklist to match
 
 ### 2. Wheelbase Wording
 
-Recommendation:
+Decision:
 
-- remove wheelbase as an inspection pass / fail item unless the committee wants a true limit
-- keep the simpler rule: wheelbase extensions are allowed
+- wheelbase will not be treated as a separate pass / fail inspection item
+- wheelbase wording should stay simple: extensions are allowed
 
 Why:
 
-- if extensions are allowed, a fixed wheelbase number creates confusion
-- the real operational concerns are starting-pin fit, guide-rail clearance, and safe track operation
-- volunteers should not inspect dimensions that do not affect race fairness or track compatibility
+- a fixed wheelbase number adds confusion if extensions are allowed
+- the practical requirements are fit on the track, starting pin, and guide rail
 
 Suggested wording:
 
@@ -45,17 +41,16 @@ Suggested wording:
 
 ### 3. Replacement Parts Policy
 
-Recommendation:
+Decision:
 
-- do not require the exact original kit wheels and axles if that creates replacement problems
 - allow committee-approved replacement wheels and axles of the same type
 - continue to ban performance parts like bearings, bushings, washers, or reshaped wheels
+- approved replacement parts can be listed for families, including through the Amazon list
 
 Why:
 
-- first-year community events should avoid unnecessary failure points for families
-- volunteers should enforce performance boundaries, not provenance puzzles
-- this still protects fairness while reducing avoidable participant frustration
+- this protects fairness without forcing provenance checks
+- it reduces avoidable failure points for families
 
 Suggested wording:
 
@@ -63,28 +58,28 @@ Suggested wording:
 
 ### 4. Failed Inspection Handling
 
-Recommendation:
+Decision:
 
-- allow failed cars to make on-site fixes when practical
-- if compliance cannot be achieved, the car does not race for speed results
-- if the car is still safe to display, it may remain eligible for design recognition
+- all cars may race
+- only cars that pass inspection are eligible for speed trophies
+- all cars remain eligible for design recognition
+- on-site fixes and reinspection are still allowed when practical
 
 Why:
 
-- this aligns with the current comment in the rules doc
-- it avoids refund or fairness disputes
-- it gives families a better experience without weakening race standards
+- this preserves family experience while protecting speed-result fairness
+- it reduces conflict around disqualification
 
 Suggested wording:
 
-`Cars that fail inspection may make on-site corrections and be reinspected. Cars that cannot be made compliant will not race for speed results. If the car is otherwise safe and event policy allows, it may still be considered for design recognition.`
+`Cars that fail inspection may make on-site corrections and be reinspected. All cars may race, but only cars that pass inspection are eligible for speed awards. All cars remain eligible for design recognition.`
 
 ## Recommended Final Package For Issue #6
 
 Close issue `#6` only when all of the following are true:
 
-- maximum height is measured and published
-- wheelbase rule is simplified or finalized
+- maximum height is published as `4 inches`
+- wheelbase rule is simplified
 - replacement-parts rule is finalized
 - failed-inspection policy is finalized
 - build-rules doc is updated
