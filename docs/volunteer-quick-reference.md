@@ -12,6 +12,7 @@ These roles should be assigned before general volunteer recruitment.
 | Track Operations | run heats and keep racing moving | technical, steady, focused | race block |
 | MC / Event Host | explain what is happening and keep energy up | clear speaker, welcoming | opening through awards |
 | Scoring / Results | manage race results and support awards | accurate, computer-comfortable | race block through awards |
+| Guest Experience Lead | own recruiting, family welcome, and event atmosphere | guest-facing, energetic, creative | event morning through awards |
 
 ## Flexible Volunteer Roles
 
@@ -27,6 +28,7 @@ These are good roles for volunteers offering 1 to 3 hours.
 | Floater | cover gaps, breaks, and short tasks | flexible helpers |
 | Setup / teardown | move tables, signs, and equipment | volunteers available before or after the event |
 | Hospitality / recruiting | support snacks, welcome, and recruiting table | friendly guest-facing volunteers |
+| Design-award support | help with fun atmosphere and design recognition | creative, audience-friendly volunteers |
 
 ## Shift Buckets
 
@@ -44,3 +46,10 @@ Use these when recruiting:
 - what task they own
 - what they should escalate
 - when they can leave
+
+## Suggested Role Boundaries
+
+- Michael owns announcing and race narration as Event Host / MC.
+- Hampton owns guest-facing welcome, recruiting, and fun atmosphere as Guest Experience Lead.
+- Rachel, Randi, Brandon, and scoring roles own race-control functions.
+- Do not mix inspection, scoring, staging, or track operations into guest-experience roles unless staffing becomes critical.
