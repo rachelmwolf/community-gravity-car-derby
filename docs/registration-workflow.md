@@ -67,3 +67,22 @@ Final policy should be confirmed before participant messaging is sent.
 - check-in close time decided
 - late-arrival policy decided
 - check-in table materials prepared
+
+## Access And Discount Policy
+
+This event may choose to offer limited goodwill or access support, but it should be decided intentionally before registration opens.
+
+Possible options to evaluate:
+
+- one reduced-fee entry for a volunteer family
+- reduced-fee or sponsored entries for underserved families
+- committee-approved discount codes
+- sponsor-funded community entries
+
+If any of these are used, the committee should define:
+
+- who qualifies
+- who approves it
+- how many discounted entries are available
+- how it is tracked in registration
+- how it is communicated without creating confusion or pressure
