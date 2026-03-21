@@ -153,6 +153,11 @@ These are easier to describe clearly and easier for volunteers to choose based o
 
 These roles spread work away from operations without overlapping with MC, inspection, scoring, or track control.
 
+### Named Fit Notes
+
+- `Hampton Madsen`: strong fit for recruiting, welcome, family-facing atmosphere, and design-award support
+- `Erin Jaynes`: strong fit for check-in and inspection support because she is detail-oriented, process-reliable, and comfortable moving guests through structured steps
+
 ## Inspection Role Implications From Build Rules
 
 The `Gravity Car Derby Build Rules` doc makes inspection more substantial than the current planner implies. Inspection must verify, at minimum:
