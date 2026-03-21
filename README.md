@@ -17,7 +17,9 @@ This is a first-year community event that mirrors the family-friendly structure 
 
 - `docs/event-overview.md`: event goals, assumptions, risks, and planning context
 - `docs/volunteer-operating-model.md`: role framework, fit guidance, staffing tiers, and coverage model
+- `docs/staffing-matrix.md`: phase-based staffing plan for the current event
 - `docs/race-operations.md`: race-day flow, control points, and execution standards
+- `docs/task-backlog.md`: issue-ready planning backlog and milestone order
 - `docs/research/benchmark-findings.md`: external research on comparable events and volunteer models
 
 ## Operating Principles
