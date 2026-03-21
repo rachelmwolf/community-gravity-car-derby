@@ -19,6 +19,8 @@ This is a first-year community event that mirrors the family-friendly structure 
 - `docs/day-of-run-sheet.md`
 - `docs/volunteer-quick-reference.md`
 - `docs/inspection-station-checklist.md`
+- `docs/venue-layout-draft.md`
+- `docs/venue-setup-checklist.md`
 - `docs/staffing-matrix.md`
 - `docs/task-backlog.md`
 
