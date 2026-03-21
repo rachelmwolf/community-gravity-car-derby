@@ -13,13 +13,20 @@ This repository is the operating backbone for the Pack 110 Community Gravity Car
 
 This is a first-year community event that mirrors the family-friendly structure of a pinewood derby while operating under a gravity car derby format. The year-one goal is disciplined execution, fair competition, and a repeatable model, not maximum scale.
 
-## Repository Structure
+## Use These First
+
+- `docs/quick-start.md`
+- `docs/day-of-run-sheet.md`
+- `docs/volunteer-quick-reference.md`
+- `docs/inspection-station-checklist.md`
+- `docs/staffing-matrix.md`
+- `docs/task-backlog.md`
+
+## Reference Docs
 
 - `docs/event-overview.md`: event goals, assumptions, risks, and planning context
-- `docs/volunteer-operating-model.md`: role framework, fit guidance, staffing tiers, and coverage model
-- `docs/staffing-matrix.md`: phase-based staffing plan for the current event
-- `docs/race-operations.md`: race-day flow, control points, and execution standards
-- `docs/task-backlog.md`: issue-ready planning backlog and milestone order
+- `docs/volunteer-operating-model.md`: role framework and staffing logic
+- `docs/race-operations.md`: race-day flow and control points
 - `docs/research/benchmark-findings.md`: external research on comparable events and volunteer models
 
 ## Operating Principles
