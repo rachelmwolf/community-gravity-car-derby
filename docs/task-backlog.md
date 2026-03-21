@@ -16,6 +16,7 @@ This backlog converts the planner into issue-ready work. Each item should become
 
 - Finalize gravity car derby format, race classes, and any limits on entries
 - Finalize published rules and inspection standards
+- Resolve open build-rules questions on maximum height, wheelbase wording, replacement parts, and failed-inspection handling
 - Verify insurance, council coordination, and any venue or event approvals
 - Confirm what “fairness” means operationally for this event and who makes final rulings
 
@@ -75,6 +76,7 @@ This backlog converts the planner into issue-ready work. Each item should become
 - Configure race software and test it before race day
 - Prepare registration import or entrant data workflow
 - Create inspection checklist
+- Build the physical inspection station with the gauges and references needed for rule enforcement
 - Define check-in flow
 - Define pit / repair flow
 - Define staging flow
@@ -87,6 +89,7 @@ This backlog converts the planner into issue-ready work. Each item should become
 - Prepare an announcer script and ceremony notes
 - Define dead-time filler plan between heats
 - Decide whether appearance judging is separate from speed awards
+- Decide whether failed-inspection cars may still participate in design judging or exhibition runs
 
 ### P2
 
