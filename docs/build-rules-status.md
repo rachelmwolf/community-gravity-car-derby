@@ -35,26 +35,27 @@ These items were settled in committee discussion and are reflected in the repo p
 
 These are the items that still need explicit follow-through.
 
-### 1. Physical Gate Confirmation
-
-- the working rule says `4 inches`
-- the event should still physically confirm that the actual MicroWizard K2 setup clears that height before race day
-
-### 2. Approved Replacement List
+### 1. Approved Replacement List
 
 - the rules now allow committee-approved same-type replacement parts
 - the committee still needs to publish the actual approved list for families
 - this could be an Amazon list, written appendix, or both
 
-### 3. Final Source-Doc Update
+### 2. Final Source-Doc Update
 
 - the source `Gravity Car Derby Build Rules` document should be updated to match the decisions above
 - until that happens, the repo and the source doc may drift
 
-### 4. Inspection Language Cleanup
+### 3. Inspection Language Cleanup
 
 - the rules and inspection checklist should stay aligned on exactly what is checked quickly on race day
 - if the source rules still contain hard-to-measure or confusing items, they should be simplified before publication
+
+### 4. Support Tools Follow-Through
+
+- the YouTube playlist is already linked in the source document
+- the Amazon list is linked and can be updated without rewriting the source document
+- replacement-part support materials can be tracked separately from the core rules text
 
 ## Cleanup Needed In Related Docs
 
@@ -65,7 +66,9 @@ Some repo docs were created before every rule decision was finalized, so future 
 The race-operations guidance should match the final policy:
 
 - compliant cars qualify for speed trophies
-- non-compliant cars may still race if the committee keeps the current decision
+- non-compliant cars may still race
+- non-compliant cars are ineligible for speed trophies
+- non-compliant cars remain eligible for design recognition
 
 Any older wording that suggests non-compliant cars cannot race should be treated as outdated.
 
