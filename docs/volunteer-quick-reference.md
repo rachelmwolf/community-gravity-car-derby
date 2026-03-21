@@ -31,6 +31,18 @@ These are good roles for volunteers offering 1 to 3 hours.
 | Hospitality / recruiting | support snacks, welcome, and recruiting table | friendly guest-facing volunteers |
 | Design-award support | help with fun atmosphere and design recognition | creative, audience-friendly volunteers |
 
+## Async Volunteer Roles
+
+These are good fits for volunteers who cannot commit to race-day operations.
+
+| Role | Main Job | Good For |
+| --- | --- | --- |
+| Communications helper | draft reminder emails, FAQ updates, and resource notes | clear writers, organized volunteers |
+| Printing coordinator | handle signs, sizing guides, forms, and small print runs | reliable volunteers with printer access |
+| Awards production helper | help choose trophy designs and coordinate 3D printing | creative, detail-oriented volunteers |
+| Signage and materials prep | assemble labels, supply lists, and station materials | methodical helpers |
+| Recruiting materials helper | prep handouts, prompts, and table materials | guest-facing, creative volunteers |
+
 ## Shift Buckets
 
 Use these when recruiting:
@@ -55,3 +67,4 @@ Use these when recruiting:
 - Rachel, Randi, Brandon, and scoring roles own race-control functions.
 - Do not mix inspection, scoring, staging, or track operations into guest-experience roles unless staffing becomes critical.
 - Erin is a strong fit for check-in and inspection support because the role depends on detail, pace, and consistent guest processing.
+- Async volunteers should be given one owner, one deliverable, and one due date so the work does not drift.
