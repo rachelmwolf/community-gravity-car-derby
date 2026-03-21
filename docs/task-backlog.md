@@ -41,6 +41,7 @@ This backlog converts the planner into issue-ready work. Each item should become
 - Prepare post-event thank-you and follow-up communication
 - Build a pre-race communication plan with timed reminders and resource prompts
 - Define how scouting resources from `2 to 3` nearby packs will be available without overtaking the event
+- Define whether the event will offer volunteer discounts, reduced-fee entries, or community-access support
 
 ## Volunteer Staffing
 
@@ -98,6 +99,7 @@ This backlog converts the planner into issue-ready work. Each item should become
 - Build an incident log template for race-day use
 - Choose award designs and identify who will 3D print them
 - Choose or create check-in sizing-guide templates and identify who will print them
+- Decide how approved discounts will be applied in registration and check-in if an access policy is adopted
 
 ## Venue, Safety, And Logistics
 
