@@ -30,6 +30,9 @@ This is a first-year community event that mirrors the family-friendly structure 
 - `docs/volunteer-signup-structure.md`
 - `docs/scouting-outreach-model.md`
 - `docs/build-rules-status.md`
+- `docs/printables/README.md`
+- `docs/printables/inspection-checklist-printable.md`
+- `docs/printables/live-links.md`
 - `docs/staffing-matrix.md`
 - `docs/task-backlog.md`
 
