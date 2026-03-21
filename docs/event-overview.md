@@ -26,6 +26,7 @@ Year one is a pilot. Success is defined by:
 - protect race fairness and pacing
 - maintain a welcoming family-facing atmosphere
 - make scouting resources available without letting recruiting dominate the room
+- consider goodwill and access policies such as volunteer discounts or reduced-fee entries
 - support future organizers outside the current council context
 
 ## Risks Already Identified
