@@ -59,14 +59,17 @@ The event should feel welcoming to families and disciplined behind the scenes. T
 ### Inspection
 
 - use a written checklist
+- verify dimensional, weight, wheel, axle, and lubricant compliance against the published build rules
 - route failures to pit, not back into the main line
 - only accepted cars advance to staging
+- impound accepted cars after inspection
 
 ### Pit / Repair
 
 - provide simple tools and supplies
 - fix and re-present cars efficiently
 - keep the queue moving
+- support only minor rule-compliance corrections on site
 
 ### Staging
 
@@ -92,3 +95,19 @@ If resources are tight, preserve these before any optional extras:
 - volunteer briefing
 
 Cut decorative or festival-like extras before cutting operational control.
+
+## Inspection-Specific Operational Notes
+
+The current build-rules draft implies that inspection is not just a courtesy review. It is a formal gate based on:
+
+- final check-in inspection on race day
+- official scale as final authority on weight
+- impound after passing inspection
+- on-site adjustments for fixable problems
+- no racing if compliance cannot be achieved
+
+Because of that, the event should explicitly prepare:
+
+- a printed inspection checklist derived from the rules doc
+- a documented rule for what is fixable on site versus what is ineligible
+- a documented path for non-compliant cars to remain eligible for design recognition, if that policy is adopted
