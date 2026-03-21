@@ -25,6 +25,8 @@ This is a first-year community event that mirrors the family-friendly structure 
 - `docs/diagrams/venue-layout-current.drawio.xml`
 - `docs/diagrams/venue-layout-current.notes.md`
 - `docs/diagrams/how-to-use-drawio-layout.md`
+- `docs/volunteer-role-catalog.md`
+- `docs/async-volunteer-tasks.md`
 - `docs/staffing-matrix.md`
 - `docs/task-backlog.md`
 
