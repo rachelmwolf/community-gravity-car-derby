@@ -68,6 +68,7 @@ This backlog converts the planner into issue-ready work. Each item should become
 
 - Build a same-day reserve list for no-show coverage
 - Add volunteer check-in sheet and contact list
+- Identify async volunteer tasks that can be done in small time blocks outside race day
 
 ## Race Operations
 
