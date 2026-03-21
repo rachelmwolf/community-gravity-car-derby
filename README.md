@@ -22,6 +22,7 @@ This is a first-year community event that mirrors the family-friendly structure 
 - `docs/venue-layout-draft.md`
 - `docs/venue-setup-checklist.md`
 - `docs/venue-layout-review-notes.md`
+- `docs/diagrams/venue-layout-current.drawio.xml`
 - `docs/staffing-matrix.md`
 - `docs/task-backlog.md`
 
