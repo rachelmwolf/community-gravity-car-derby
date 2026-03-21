@@ -104,10 +104,12 @@ The current build-rules draft implies that inspection is not just a courtesy rev
 - official scale as final authority on weight
 - impound after passing inspection
 - on-site adjustments for fixable problems
-- no racing if compliance cannot be achieved
+- all cars may race, even if compliance cannot be achieved
+- only inspection-compliant cars are eligible for speed trophies
+- all cars remain eligible for design recognition
 
 Because of that, the event should explicitly prepare:
 
 - a printed inspection checklist derived from the rules doc
-- a documented rule for what is fixable on site versus what is ineligible
-- a documented path for non-compliant cars to remain eligible for design recognition, if that policy is adopted
+- a documented rule for what is fixable on site versus what remains non-compliant
+- a clear way to mark non-compliant cars as ineligible for speed trophies
