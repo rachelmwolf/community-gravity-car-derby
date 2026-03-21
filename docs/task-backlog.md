@@ -40,6 +40,7 @@ This backlog converts the planner into issue-ready work. Each item should become
 - Prepare pre-event rule summary and inspection expectations
 - Prepare post-event thank-you and follow-up communication
 - Build a pre-race communication plan with timed reminders and resource prompts
+- Define how scouting resources from other packs will be available without overtaking the event
 
 ## Volunteer Staffing
 
@@ -133,6 +134,7 @@ This backlog converts the planner into issue-ready work. Each item should become
 - Build hospitality or concessions plan
 - Build recruiting table plan
 - Build side-activity or downtime plan for families and siblings
+- Define a shared scouting resource model and limits for in-room pack presence
 
 ### P2
 
