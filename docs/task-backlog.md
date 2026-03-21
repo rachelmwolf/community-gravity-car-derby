@@ -39,6 +39,7 @@ This backlog converts the planner into issue-ready work. Each item should become
 - Prepare FAQ for common participant questions
 - Prepare pre-event rule summary and inspection expectations
 - Prepare post-event thank-you and follow-up communication
+- Build a pre-race communication plan with timed reminders and resource prompts
 
 ## Volunteer Staffing
 
@@ -93,6 +94,8 @@ This backlog converts the planner into issue-ready work. Each item should become
 
 - Build a heat pacing estimate for 40, 60, and 80 cars
 - Build an incident log template for race-day use
+- Choose award designs and identify who will 3D print them
+- Choose or create check-in sizing-guide templates and identify who will print them
 
 ## Venue, Safety, And Logistics
 
