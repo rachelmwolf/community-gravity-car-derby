@@ -40,6 +40,8 @@ Possible theme directions under discussion:
 - keep speed awards separate from design awards
 - all cars may be eligible for design recognition
 - only inspection-compliant cars are eligible for speed trophies
+- Michael should own awards presentation flow
+- Hampton can support design-award energy, display, audience engagement, and category messaging
 
 ## Decisions Still Needed
 
@@ -52,3 +54,9 @@ Possible theme directions under discussion:
 ## Recommended Next Step
 
 Pick the final design award categories and publish them in participant-facing materials. Keep the list short and easy to understand.
+
+## Role Split Recommendation
+
+- `Michael Brantner`: awards presentation, announcements, pacing, humor, and ceremony flow
+- `Hampton Madsen`: recruiting, welcome tone, design-award enthusiasm, family-facing fun, and guest engagement around awards
+- `Race Director`: final confirmation that the award sequence matches event operations
