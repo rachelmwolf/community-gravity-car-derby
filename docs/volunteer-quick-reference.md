@@ -13,6 +13,7 @@ These roles should be assigned before general volunteer recruitment.
 | MC / Event Host | explain what is happening and keep energy up | clear speaker, welcoming | opening through awards |
 | Scoring / Results | manage race results and support awards | accurate, computer-comfortable | race block through awards |
 | Guest Experience Lead | own recruiting, family welcome, and event atmosphere | guest-facing, energetic, creative | event morning through awards |
+| Check-In / Inspection Support | move guests through check-in and support inspection flow | detail-oriented, process-following, calm with guests | event morning through inspection window |
 
 ## Flexible Volunteer Roles
 
@@ -53,3 +54,4 @@ Use these when recruiting:
 - Hampton owns guest-facing welcome, recruiting, and fun atmosphere as Guest Experience Lead.
 - Rachel, Randi, Brandon, and scoring roles own race-control functions.
 - Do not mix inspection, scoring, staging, or track operations into guest-experience roles unless staffing becomes critical.
+- Erin is a strong fit for check-in and inspection support because the role depends on detail, pace, and consistent guest processing.
