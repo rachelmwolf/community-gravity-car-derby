@@ -184,10 +184,10 @@ The inspection station should have:
 
 The build-rules doc still contains unresolved items that should be closed before volunteer role descriptions are finalized:
 
-- maximum height that clears the finish timing gate
-- final position on official-kit-only components versus practical replacements
-- final wheelbase wording
-- final policy for cars that fail compliance but may still participate in design judging
+- confirm the published `4 inch` height limit against the actual MicroWizard K2 gate before race day
+- list committee-approved same-type replacement wheels and axles for families
+- update the build-rules doc with simplified wheelbase wording
+- document that all cars may race, but only inspected-compliant cars are eligible for speed trophies
 
 ## Volunteer Signup Categories
 
