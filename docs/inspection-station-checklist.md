@@ -21,11 +21,12 @@ Use this on race day. Keep it short, visible, and consistent.
 - does not extend beyond the starting pin
 - width within limit
 - height within final limit
+- height is `4 inches` or less
 - ground clearance meets minimum
 - wheel track meets minimum
 - final assembled weight is at or under limit
 - all four wheels touch
-- approved wheels and axles only
+- original kit wheels and axles or committee-approved same-type replacements only
 - no prohibited wheel reshaping
 - dry lubricant only
 - no suspension
@@ -43,6 +44,6 @@ Use this on race day. Keep it short, visible, and consistent.
 
 - rules dispute
 - unclear wheel or axle modification
-- timing-gate clearance question
+- any car near the 4-inch height limit
 - loose or unsafe build
 - anything that is not clearly covered by the printed checklist
