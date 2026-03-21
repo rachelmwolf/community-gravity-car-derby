@@ -28,6 +28,7 @@ This is a first-year community event that mirrors the family-friendly structure 
 - `docs/volunteer-role-catalog.md`
 - `docs/async-volunteer-tasks.md`
 - `docs/volunteer-signup-structure.md`
+- `docs/scouting-outreach-model.md`
 - `docs/staffing-matrix.md`
 - `docs/task-backlog.md`
 
