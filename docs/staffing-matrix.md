@@ -143,6 +143,16 @@ Chief Inspector specifically needs to be comfortable handling:
 
 These are easier to describe clearly and easier for volunteers to choose based on comfort and energy level.
 
+### Good Roles For A Guest-Experience Lead
+
+- recruiting table ownership
+- hospitality / welcome coordination
+- design-award support
+- signage tone and family-facing messaging
+- audience engagement support around awards
+
+These roles spread work away from operations without overlapping with MC, inspection, scoring, or track control.
+
 ## Inspection Role Implications From Build Rules
 
 The `Gravity Car Derby Build Rules` doc makes inspection more substantial than the current planner implies. Inspection must verify, at minimum:
