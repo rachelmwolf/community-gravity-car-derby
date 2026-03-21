@@ -31,7 +31,7 @@ These assignments come from the existing planner and should be confirmed, not as
 | Role | Why It Exists | Best Fit | Coverage Window | Backup Required |
 | --- | --- | --- | --- | --- |
 | Race Director | Owns final day-of decisions and schedule integrity | calm, authoritative, big-picture thinker | day before through teardown | yes |
-| Chief Inspector | Protects fairness and resolves inspection questions | detail-oriented, consistent, calm under pressure | check-in through early racing | yes |
+| Chief Inspector | Protects fairness, applies build rules, and resolves inspection questions | detail-oriented, consistent, calm under pressure | pre-event prep, check-in, and any reinspection window | yes |
 | Safety Lead | Owns emergency readiness and hazard escalation | safety-minded, calm, ideally first-aid capable | setup through teardown | yes |
 | Event Host / MC | Keeps the event understandable and energetic | strong communicator, positive presence | opening through awards | no |
 | Track Operations Lead | Keeps heats moving and software process stable | technically confident, steady, repetitive-task tolerant | race period | yes |
@@ -56,8 +56,8 @@ These assignments come from the existing planner and should be confirmed, not as
 | Volunteer check-in and briefing | 1 | 2 | organized people person |
 | Final setup / punch-list | 2 | 4 | setup crew and floater |
 | Check-in table | 2 | 3 | paperwork-comfortable, guest-facing |
-| Inspection | 2 | 3 | patient, rule-consistent |
-| Pit / repair | 1 | 2 | handy and calm |
+| Inspection | 2 | 3 | patient, rule-consistent, comfortable making pass/fail calls |
+| Pit / repair | 1 | 2 | handy and calm, able to help families make minor compliant fixes |
 | Greeter / line direction | 1 | 2 | warm, visible, approachable |
 | Safety / first aid ready | 1 | 1 | should not also run check-in |
 
@@ -121,6 +121,15 @@ This implies a realistic target of 13 to 15 volunteers for a smooth standard eve
 
 These roles carry continuity, judgment, or technical load and should not be left to late volunteer assignment.
 
+Chief Inspector specifically needs to be comfortable handling:
+
+- dimensional checks against the starting pin, guide rail, and track clearance requirements
+- official scale decisions
+- wheel and axle compliance questions
+- dry-lubricant-only enforcement
+- mechanical disqualification calls for prohibited propulsion, suspension, or loose material
+- judgment calls on whether a car can be fixed on site or must be ruled ineligible
+
 ### Good Roles For Preference-Based Volunteers
 
 - greeter / welcome
@@ -133,6 +142,52 @@ These roles carry continuity, judgment, or technical load and should not be left
 - hospitality / recruiting
 
 These are easier to describe clearly and easier for volunteers to choose based on comfort and energy level.
+
+## Inspection Role Implications From Build Rules
+
+The `Gravity Car Derby Build Rules` doc makes inspection more substantial than the current planner implies. Inspection must verify, at minimum:
+
+- front clearance at the starting pin
+- maximum width
+- maximum height once timing-gate clearance is finalized
+- minimum ground clearance
+- minimum wheel track
+- final assembled weight on the official scale
+- all four wheels touching
+- no camber / no crowning if that rule remains in force
+- approved wheel and axle usage
+- dry lubricant only, on the allowed parts only
+- no suspension, no propulsion, and no loose or unsafe decorations
+- secured weights with no liquid weighting
+
+This means the event should treat inspection as a two-part function:
+
+1. `Chief Inspector + inspection assistant`
+2. `Pit / repair support for minor on-site corrections`
+
+It also means the inspection station needs tools and reference materials, not just volunteers.
+
+## Inspection Station Checklist
+
+The inspection station should have:
+
+- official scale
+- width and clearance gauges
+- a way to verify starting-pin and timing-gate fit
+- printed rules
+- printed inspection checklist
+- pass / fail marking method
+- pit referral process for fixable issues
+- clear escalation path for unresolved judgment calls
+
+## Pending Rule Decisions That Affect Staffing
+
+The build-rules doc still contains unresolved items that should be closed before volunteer role descriptions are finalized:
+
+- maximum height that clears the finish timing gate
+- final position on official-kit-only components versus practical replacements
+- final wheelbase wording
+- final policy for cars that fail compliance but may still participate in design judging
 
 ## Volunteer Signup Categories
 
