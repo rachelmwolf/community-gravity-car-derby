@@ -9,13 +9,14 @@ Use this to confirm the minimum lead coverage required to run the event.
 | Role | Primary | Backup | Status | Notes |
 | --- | --- | --- | --- | --- |
 | Race Director | Rachel Wolf |  | In progress | Current planner indicates Rachel owns this role. |
-| Chief Inspector | Randi Brantner |  | In progress | Current working assignment. |
+| Chief Inspector | Randi Brantner | Erin Jaynes | In progress | Erin is a strong support / backup fit because she has prior check-in and inspection experience. |
 | Safety Lead |  |  | Open | Should own first-aid readiness and emergency escalation. |
 | Event Host / MC | Michael Brantner |  | In progress | Current planner indicates Michael in this role. |
 | Track Operations Lead | Brandon Jaynes |  | Confirmed | Brandon is confirmed for track operations. |
 | Scoring / Results Lead | Race software with Rachel Wolf confirming final results |  | In progress | Software handles scoring and judging workflow; Race Director confirms final results. |
 | Awards Lead | Michael Brantner |  | In progress | Michael is responsible for awards flow and presentation. |
 | Guest Experience Lead | Hampton Madsen |  | Confirmed | Owns recruiting, welcome tone, fun atmosphere, and family-facing support outside race control. |
+| Check-In / Inspection Support | Erin Jaynes |  | Confirmed | Detail-oriented and process-reliable; strong fit for moving guests through check-in and inspection. |
 
 ## Required Coverage Before Recruitment Opens
 
@@ -93,7 +94,7 @@ Backups are strongly preferred for:
 ## Immediate Next Actions
 
 - assign a Safety Lead
-- confirm backup coverage for Randi as Chief Inspector
+- confirm Erin Jaynes as working inspection support and backup coverage for Randi
 - document the final scoring / results confirmation process
 - document award categories so families know what to plan for
 - define Hampton's support volunteers for recruiting, welcome, and design-award energy
