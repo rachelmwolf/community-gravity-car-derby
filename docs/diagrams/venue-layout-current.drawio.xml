@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.4">
+  <diagram name="Page-1" id="GW2f3fZiVlNfn2i7lJvX">
+    <mxGraphModel dx="11825" dy="8025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=72;fontStyle=1;" value="Gym Floor (Working Assumption: 94 ft x 60 ft)" vertex="1">
+          <mxGeometry height="6000" width="9400" x="80" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=72;fontStyle=1;" value="Stage (Offset from Gym Floor)" vertex="1">
+          <mxGeometry height="397" width="4546" x="2314" y="-290" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d9d9d9;strokeColor=#666666;fontSize=72;" value="Building Entry Corridor / Hallway" vertex="1">
+          <mxGeometry height="6000" width="700" x="9497" y="107" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9f0f2;strokeColor=#6c8ebf;fontSize=72;fontStyle=1;" value="Welcome / Check-In" vertex="1">
+          <mxGeometry height="1075" width="1100" x="8390" y="1715" as="geometry" />
+        </mxCell>
+        <mxCell id="6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9f0f2;strokeColor=#6c8ebf;fontSize=72;fontStyle=1;" value="Inspection" vertex="1">
+          <mxGeometry height="2060" width="1140" x="8370" y="4064" as="geometry" />
+        </mxCell>
+        <mxCell id="7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9f0f2;strokeColor=#6c8ebf;fontSize=72;fontStyle=1;" value="Track Operations Zone" vertex="1">
+          <mxGeometry height="1615" width="6360" x="1245" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=72;" value="Awards Area" vertex="1">
+          <mxGeometry height="132" width="390" x="1504" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=72;" value="Scoring / Software" vertex="1">
+          <mxGeometry height="268" width="557" x="4837" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=72;" value="Projector" vertex="1">
+          <mxGeometry height="137" width="300" x="4513" y="538" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4b3ff;strokeColor=#a64d79;fontSize=72;" value="TV 02&amp;nbsp;" vertex="1">
+          <mxGeometry height="200" width="300" x="2390" y="207" as="geometry" />
+        </mxCell>
+        <mxCell id="12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4b3ff;strokeColor=#a64d79;fontSize=72;" value="TV 01" vertex="1">
+          <mxGeometry height="200" width="300" x="6483" y="242" as="geometry" />
+        </mxCell>
+        <mxCell id="13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d9f0f2;strokeColor=#6c8ebf;fontSize=72;" value="Audience Seating" vertex="1">
+          <mxGeometry height="2960" width="6680" x="1140" y="2540" as="geometry" />
+        </mxCell>
+        <mxCell id="14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=72;" value="Closer Racer Viewing Area" vertex="1">
+          <mxGeometry height="322" width="6250" x="1290" y="1740" as="geometry" />
+        </mxCell>
+        <mxCell id="15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=72;" value="Concessions" vertex="1">
+          <mxGeometry height="1118" width="627" x="153" y="3102" as="geometry" />
+        </mxCell>
+        <mxCell id="16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=72;" value="Recruiting" vertex="1">
+          <mxGeometry height="1148" width="627" x="170" y="1935" as="geometry" />
+        </mxCell>
+        <mxCell id="17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=72;arcSize=0;" value="First Aid" vertex="1">
+          <mxGeometry height="137" width="213" x="8439" y="1810" as="geometry" />
+        </mxCell>
+        <mxCell id="18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=72;arcSize=0;" value="Impound / Staging" vertex="1">
+          <mxGeometry height="1240" width="635" x="6805" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6fd36f;strokeColor=#2d7d2d;fontSize=72;fontStyle=1;" value="Track (40 ft)" vertex="1">
+          <mxGeometry height="200" width="4000" x="2500" y="1075" as="geometry" />
+        </mxCell>
+        <mxCell id="20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=72;" value="Pit / Repair" vertex="1">
+          <mxGeometry height="1225" width="765" x="8705" y="2830" as="geometry" />
+        </mxCell>
+        <mxCell id="21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=72;" value="&lt;font&gt;Walkway - Standing Only&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="450" width="6180" x="1290" y="2080" as="geometry" />
+        </mxCell>
+        <mxCell id="22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=72;" value="&lt;font&gt;Walkway - Standing Only&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="450" width="6180" x="1305" y="5485" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
