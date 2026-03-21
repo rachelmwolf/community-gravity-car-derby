@@ -25,6 +25,7 @@ Year one is a pilot. Success is defined by:
 - make volunteer roles clear and attractive
 - protect race fairness and pacing
 - maintain a welcoming family-facing atmosphere
+- make scouting resources available without letting recruiting dominate the room
 - support future organizers outside the current council context
 
 ## Risks Already Identified
