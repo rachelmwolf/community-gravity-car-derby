@@ -164,3 +164,13 @@ The existing `Volunteers` tab should be reworked into:
 6. role-fit notes
 
 That structure will be easier to staff and easier to reuse next year.
+
+## Additional Requirement For This Event
+
+Because many volunteers will only have 1 to 3 hours available, the staffing model should separate:
+
+- critical leads who need continuity
+- short-shift race-day support roles
+- async pre-event tasks that can be completed in small time blocks
+
+This allows the committee to recruit both committed operators and limited-availability helpers without forcing everyone into live event roles.
