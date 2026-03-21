@@ -39,6 +39,8 @@ Use this on race day. Keep it short, visible, and consistent.
 - if the car passes, mark it accepted and move it to impound / staging
 - if the car has a minor fix, send it to pit / repair and recheck it
 - if the car cannot be made compliant, escalate to Chief Inspector and Race Director
+- if the final determination is non-compliant, mark the car ineligible for speed trophies but still allow it to race
+- non-compliant cars remain eligible for design recognition
 
 ## Escalate Immediately
 
