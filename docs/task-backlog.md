@@ -100,6 +100,7 @@ This backlog converts the planner into issue-ready work. Each item should become
 - Choose award designs and identify who will 3D print them
 - Choose or create check-in sizing-guide templates and identify who will print them
 - Decide how approved discounts will be applied in registration and check-in if an access policy is adopted
+- Finalize build-rules support tools such as approved replacement lists and linked support resources
 
 ## Venue, Safety, And Logistics
 
