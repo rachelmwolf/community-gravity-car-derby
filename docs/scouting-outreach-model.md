@@ -20,7 +20,7 @@ Use a `resource table` model, not a `full pack presence` model.
 
 Recommended approach:
 
-- invite a limited number of packs to provide contact information or one representative
+- invite a limited number of nearby packs to provide contact information and one to two representatives
 - do not invite full pack groups to attend in uniform just to stand in the room
 - keep the visible event focus on racers, families, and the derby itself
 - treat scouting as one of the community outcomes of the event, not the whole event theme
@@ -40,6 +40,12 @@ Additional scouting adults should only be present when they are:
 - supporting operations
 - directly connected to participating families
 
+The intended planning assumption is modest:
+
+- about `2 to 3` packs represented
+- `1 to 2` adults per pack
+- those representatives are not racers
+
 If extra adults are present without a role, they will dilute the audience and make the room feel more like an internal scouting event than a community event.
 
 ## Recommended Physical Model
@@ -51,13 +57,15 @@ Best-fit version:
 - one `Scouting Info` table or section within the recruiting area
 - one simple handout or sign listing participating packs and contact options
 - one or two scheduled representatives at a time, not every pack staffing the room all day
+- representatives rotate through the table instead of clustering in the room
 
 This keeps the footprint small and prevents the left side of the room from becoming a volunteer-only or recruiter-only zone.
 
 ## Suggested Participation Rules For Other Packs
 
-- each interested pack may provide one point of contact
-- only one representative per pack should be physically present unless they also have an event job
+- each interested pack should provide one point of contact in advance
+- each invited pack may have `1 to 2` representatives physically present
+- representatives are present as resources, not racers
 - packs should bring simple materials, not large displays
 - the event team controls where and when pack representatives are present
 - pack presence should support interested families, not interrupt race operations
@@ -81,7 +89,7 @@ The least helpful times are:
 These should be decided before outreach begins:
 
 - how many packs should be invited
-- whether the event uses one shared scouting table or allows separate pack materials
+- whether the event uses one shared scouting table or allows only limited shared materials
 - whether representatives need to preregister
 - whether uniforms are encouraged, neutral, or discouraged
 - how pack contact information will be displayed
@@ -93,7 +101,10 @@ For year one:
 - keep it small
 - use one shared scouting resource area
 - invite only nearby packs that are willing to support the event tone
-- cap in-room non-operational scouting representatives to a very small number
+- plan for roughly `2 to 3` packs represented
+- allow `1 to 2` adults per pack
+- do not treat those representatives as participants or racers
+- cap in-room non-operational scouting representatives to a small, intentional number
 - evaluate after the event whether broader district or council presence helped or distracted
 
 ## Why This Matters
