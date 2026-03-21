@@ -9,11 +9,12 @@ Use this to confirm the minimum lead coverage required to run the event.
 | Role | Primary | Backup | Status | Notes |
 | --- | --- | --- | --- | --- |
 | Race Director | Rachel Wolf |  | In progress | Current planner indicates Rachel owns this role. |
-| Chief Inspector |  |  | Open | Must be comfortable making pass / fail calls and handling reinspection questions. |
+| Chief Inspector | Randi Brantner |  | In progress | Current working assignment. |
 | Safety Lead |  |  | Open | Should own first-aid readiness and emergency escalation. |
 | Event Host / MC | Michael Brantner |  | In progress | Current planner indicates Michael in this role. |
-| Track Operations Lead | Brandon Jaynes? |  | Pending confirmation | Current planner shows Brandon with a question mark. |
-| Scoring / Results Lead |  |  | Open | Should not also be the MC. |
+| Track Operations Lead | Brandon Jaynes |  | Confirmed | Brandon is confirmed for track operations. |
+| Scoring / Results Lead | Race software with Rachel Wolf confirming final results |  | In progress | Software handles scoring and judging workflow; Race Director confirms final results. |
+| Awards Lead | Michael Brantner |  | In progress | Michael is responsible for awards flow and presentation. |
 
 ## Required Coverage Before Recruitment Opens
 
@@ -22,7 +23,8 @@ Use this to confirm the minimum lead coverage required to run the event.
 - Safety Lead confirmed
 - Event Host / MC confirmed
 - Track Operations Lead confirmed
-- Scoring / Results Lead confirmed
+- Scoring / Results process confirmed
+- Awards Lead confirmed
 
 ## Backup Expectations
 
@@ -37,6 +39,7 @@ Backups are strongly preferred for:
 
 - Event Host / MC
 - Scoring / Results Lead
+- Awards Lead
 
 ## Role Notes
 
@@ -70,11 +73,17 @@ Backups are strongly preferred for:
 
 - owns result integrity
 - supports awards order and final standings
+- for this event, race software handles scoring while Rachel confirms final results
+
+### Awards Lead
+
+- owns trophy expectations and presentation flow
+- works with Race Director to ensure awards are ready before presentation
 
 ## Immediate Next Actions
 
-- confirm Brandon Jaynes or replace with another Track Operations lead
-- assign a Chief Inspector
 - assign a Safety Lead
-- assign a Scoring / Results Lead
+- confirm backup coverage for Randi as Chief Inspector
+- document the final scoring / results confirmation process
+- document award categories so families know what to plan for
 - name at least one backup for Race Director and Chief Inspector
