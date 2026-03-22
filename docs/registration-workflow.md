@@ -25,6 +25,7 @@ Use this as the working flow for participant registration and race-day check-in.
    - any category or age-group information if used
 3. Send confirmation message after registration.
 4. Send reminder message before the event.
+5. If registration happens late in the cycle, send a catch-up message with the essential build and race information.
 
 ## Participant Instructions To Communicate
 
@@ -63,6 +64,7 @@ Final policy should be confirmed before participant messaging is sent.
 - registration owner assigned
 - registration form live
 - confirmation message drafted
+- catch-up message drafted for late registrants
 - reminder message drafted
 - check-in close time decided
 - late-arrival policy decided
