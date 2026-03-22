@@ -19,6 +19,7 @@ This document defines the communication sequence from registration launch throug
 - reduce confusion about what the ticket includes
 - remind people to actually build the car before race day
 - reduce check-in friction by setting expectations early
+- make sure late registrants receive the same essential guidance as early registrants
 
 ## Core Message To Repeat
 
@@ -80,6 +81,16 @@ Key points:
 - replacement links exist if needed
 - embellishment and design creativity are welcome within the rules
 
+### Catch-Up Rule For Late Registrants
+
+Any participant who registers after the build-phase reminder has already gone out should automatically receive a `catch-up email` that includes:
+
+- what the ticket includes
+- build-at-home expectations
+- links to rules and build resources
+- inspection and trophy eligibility rules
+- location and upcoming timing expectations
+
 ### 4. Race-Week Reminder
 
 When:
@@ -136,6 +147,8 @@ Use:
 - Square confirmation flow
 - direct email if available
 
+The registered-participant sequence should be treated as rolling, not one-time-only. A person who joins later should still receive the core build and race guidance.
+
 ## Suggested Public Copy Themes
 
 ### Launch Theme
@@ -177,6 +190,7 @@ Use:
 ## Recommended Next Outputs
 
 - Square registration page copy
+- automated email sequence copy for Square or manual send workflow
 - launch announcement copy
 - Facebook post series
 - flyer / poster copy
